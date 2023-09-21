@@ -1,3 +1,3 @@
   <div class="simple-footer">
-      Copyright &copy; Stisla 2018
+      Copyright &copy; FIC 8 Ari Putra with Stisla 2018
   </div>
